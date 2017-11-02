@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="UI Script POC Table" max_length="40" name="x_168348_ui_script_poc_table" type="collection">
+        <element label="String" max_length="40" name="string" type="string"/>
+    </element>
+</database>
